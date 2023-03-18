@@ -1,0 +1,48 @@
+Paper1:
+Title: Drone Control based on Mental Commands and Facial Expressions
+Drone: Parrot Mambo Fly drone
+EEG: The Emotiv Insight headset with five wireless channels 
+Proposed Architechture: Emotiv Insight EEG headset,
+			Raspberry Pi Zero,
+			wireless transmission via Bluetooth.
+
+Experiment performed with help of: not done.
+Software and tools: The Cortex application
+Work proposed: not done.
+Future work proposed: As future work, it would be useful to use the mental commands and control the movements of the drone.
+
+Paper3:
+Title: Implementing Remote Presence Using Quadcopter Control by a Non-Invasive BCI Device
+Drone: quadcopter-AR Drone 2.0
+EEG: Emotive EPOC with 16-elctrode headset
+
+	(Emotive Epoc neuro, a low-cost headset, has 14 
+	electrodes with 2 reference channels, in which revealing of 
+	blinks, horizontal glances left/right, eyebrow raise, left/right 
+	winks, smile left/right, laugh, clench teeth and several 
+	expressions as well as cognitive states can be real-time 
+	recorded.)
+
+Proposed Architechture: Emotive EPOC with 16-elctrode headset,
+			development kit EmoEngine,
+			Emotiv API,
+			wireless interface,
+ 			and a wireless-controlled quardcopter.
+
+Experiment performed with help of: 8 subjects of average age 23.3 years.
+
+Paper4: 
+Title: Mind Controlled Drone: An Innovative Multiclass SSVEP based Brain Computer Interface.
+Drone: not mentioned (for experiment, drone is replaced by feedback circuit having LEDs controlled by an Arduino board)
+EEG: Emotive EPOC with 16-elctrode headset
+Proposed Architechture: a custom-made visual interface,
+			 EEG headset,
+			 a laptop,
+			 and a wireless drone.
+
+Experiment performed with help of:The system was tested on ten able-bodied subjects.
+
+Software and tools:  For signal acquisition and for decryption of the raw EEG data, a script was developed and implemented in Python.
+		     The signal processing, feature extraction, and classification algorithms were performed in Matlab.
+		     In order to send the EEG data from Python to Matlab, a software tool known as Lab Streaming Layer (LSL) was used. 
+Work proposed: a 4-class SSVEP model able to move the drone up/down, left/right, forward/backward.
