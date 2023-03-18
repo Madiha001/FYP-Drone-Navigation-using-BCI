@@ -1,0 +1,1485 @@
+Console Log Started at Local Time: 2022-09-19_13-47-00
+Screen Resolution: 1920 X 1080
+High-DPI Screen Detected: false
+Operating System and Version: Windows - 10.0
+Welcome to the Processing-based OpenBCI GUI!
+For more information, please visit: https://docs.openbci.com/Software/OpenBCISoftware/GUIDocs/
+OpenBCI_GUI::Setup: GUI v5 Sample Data exists in Documents folder.
+Settings: LogFileMaxDuration = 60 minutes
+OpenBCI_GUI::Settings: Found and loaded existing GUI-wide Settings from file.
+ControlP5 2.3.4 infos, comments, questions at https://github.com/retiutut/controlp5
+TopNav: Internet Connection Successful
+Local Version: v5.1.0, Latest Version: v5.1.0
+GUI is up to date!
+BrainFlow Version: fce5573c9456f5216a457fc66171b28a175e8b95
+OpenBCI_GUI: AuditoryFeedback: Loading Audio...
+OpenBCI_GUI: AuditoryFeedback: Done Loading Audio!
+OpenBCI_GUI::Control Panel: Playback history file not found.
+OpenBCI_GUI::Setup: Setup is complete!
+sourceList: click! 
+OpenBCI_GUI: Channel count set to 8
+ControlPanel: Found Cyton Dongle on COM port: COM4
+
+-------------------------------------------------
+ControlPanel: Attempting to Auto-Connect to Cyton
+-------------------------------------------------
+
+ControlPanel: Found Cyton Dongle on COM port: COM4
+[WARN]: Found a Cyton dongle, but could not connect to the board. Auto-Scanning now...
+[ERROR]: Unable to connect to Cyton. Please check hardware and power source.
+
+-------------------------------------------------
+ControlPanel: Attempting to Auto-Connect to Cyton
+-------------------------------------------------
+
+ControlPanel: Found Cyton Dongle on COM port: COM4
+[WARN]: Found a Cyton dongle, but could not connect to the board. Auto-Scanning now...
+Success: Host and Device on Channel number: 20. Using COM port: COM4
+Successfully connected to Cyton using COM4
+[DEFAULT]: Attempting to Start Session...
+initButtonPressed: Calling initSystem() after next draw()
+OpenBCI_GUI: Start session. Calling initSystem().
+
+
+=================================================
+||             INITIALIZING SYSTEM             ||
+=================================================
+
+OpenBCI_GUI: Configuring Cyton Channel Count...
+Sending config string to board: c
+OpenBCI_GUI: Channel count set to 8
+InitSettings: Saving Default Settings to file!
+SessionSettings: 3 active widgets saved!
+[SUCCESS]: Session started!
+Need to call beginShape() first
+WidgetManager.pde: Remapping widgets to container layout...
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_13-50-31.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_0.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 211-213
+WARNING: Lost 1 Samples Between 219-221
+WARNING: Lost 1 Samples Between 246-248
+WARNING: Lost 1 Samples Between 5-7
+WARNING: Lost 1 Samples Between 134-136
+WARNING: Lost 2 Samples Between 231-234
+WARNING: Lost 1 Samples Between 145-147
+WARNING: Lost 1 Samples Between 157-159
+WARNING: Lost 1 Samples Between 172-174
+WARNING: Lost 2 Samples Between 214-217
+WARNING: Lost 1 Samples Between 226-228
+WARNING: Lost 1 Samples Between 161-163
+WARNING: Lost 1 Samples Between 163-165
+WARNING: Lost 1 Samples Between 192-194
+WARNING: Lost 1 Samples Between 113-115
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_13-58-56.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_1.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-00-00.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_2.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-00-52.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_3.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-01-42.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_4.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-02-12.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_5.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-05-42.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_6.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-06-02.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_7.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-06-54.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_8.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-08-38.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_9.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 134-136
+WARNING: Lost 1 Samples Between 121-123
+WARNING: Lost 1 Samples Between 101-103
+WARNING: Lost 1 Samples Between 103-105
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-10-22.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_10.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 112-114
+WARNING: Lost 1 Samples Between 167-169
+WARNING: Lost 1 Samples Between 169-171
+WARNING: Lost 1 Samples Between 223-225
+WARNING: Lost 1 Samples Between 150-152
+WARNING: Lost 1 Samples Between 152-154
+WARNING: Lost 1 Samples Between 200-202
+WARNING: Lost 1 Samples Between 113-115
+WARNING: Lost 1 Samples Between 115-117
+WARNING: Lost 1 Samples Between 201-203
+WARNING: Lost 1 Samples Between 37-39
+WARNING: Lost 1 Samples Between 39-41
+WARNING: Lost 1 Samples Between 76-78
+WARNING: Lost 1 Samples Between 238-240
+WARNING: Lost 1 Samples Between 240-242
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-18-51.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_11.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 146-148
+WARNING: Lost 1 Samples Between 70-72
+WARNING: Lost 1 Samples Between 72-74
+WARNING: Lost 1 Samples Between 174-176
+WARNING: Lost 1 Samples Between 40-42
+WARNING: Lost 1 Samples Between 126-128
+WARNING: Lost 1 Samples Between 37-39
+WARNING: Lost 1 Samples Between 39-41
+WARNING: Lost 1 Samples Between 41-43
+WARNING: Lost 1 Samples Between 123-125
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-23-02.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_12.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 1-3
+WARNING: Lost 1 Samples Between 101-103
+WARNING: Lost 1 Samples Between 67-69
+WARNING: Lost 1 Samples Between 93-95
+WARNING: Lost 1 Samples Between 154-156
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-23-47.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_13.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 118-120
+WARNING: Lost 2 Samples Between 27-30
+WARNING: Lost 1 Samples Between 221-223
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-25-05.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_14.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 169-171
+WARNING: Lost 1 Samples Between 254-0
+WARNING: Lost 1 Samples Between 43-45
+WARNING: Lost 1 Samples Between 151-153
+WARNING: Lost 1 Samples Between 153-155
+WARNING: Lost 1 Samples Between 220-222
+WARNING: Lost 1 Samples Between 236-238
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-25-50.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_15.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-26-32.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_16.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-27-41.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_17.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-28-38.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_18.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-29-45.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_19.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-30-37.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_20.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 255 Samples Between 1-1
+[WARN]: Lost packets detected, open packet loss widget for more info
+[INFO]: Data streaming is running as usual
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-31-09.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_21.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 87-89
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-32-02.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_22.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 213-215
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-32-54.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_23.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-38-44.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_24.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 18-20
+WARNING: Lost 2 Samples Between 221-224
+WARNING: Lost 1 Samples Between 4-6
+WARNING: Lost 1 Samples Between 156-158
+WARNING: Lost 1 Samples Between 92-94
+WARNING: Lost 1 Samples Between 94-96
+WARNING: Lost 1 Samples Between 189-191
+WARNING: Lost 8 Samples Between 19-28
+WARNING: Lost 6 Samples Between 28-35
+WARNING: Lost 253 Samples Between 35-33
+[WARN]: Lost packets detected, open packet loss widget for more info
+WARNING: Lost 245 Samples Between 33-23
+WARNING: Lost 7 Samples Between 23-31
+WARNING: Lost 10 Samples Between 31-42
+WARNING: Lost 239 Samples Between 42-26
+WARNING: Lost 13 Samples Between 26-40
+WARNING: Lost 5 Samples Between 40-46
+WARNING: Lost 246 Samples Between 46-37
+WARNING: Lost 4 Samples Between 38-43
+WARNING: Lost 3 Samples Between 43-47
+WARNING: Lost 4 Samples Between 65-70
+WARNING: Lost 252 Samples Between 70-67
+WARNING: Lost 2 Samples Between 68-71
+[INFO]: Data streaming is running as usual
+WARNING: Lost 1 Samples Between 16-18
+WARNING: Lost 1 Samples Between 18-20
+WARNING: Lost 1 Samples Between 165-167
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-43-12.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_25.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-43-55.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_26.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-44-37.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_27.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-45-29.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_28.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-46-18.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_29.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-47-00.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_30.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-51-25.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_31.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 24-26
+[WARN]: Lost packets detected, open packet loss widget for more info
+[INFO]: Data streaming is running as usual
+WARNING: Lost 1 Samples Between 106-108
+WARNING: Lost 1 Samples Between 132-134
+WARNING: Lost 1 Samples Between 225-227
+WARNING: Lost 1 Samples Between 243-245
+WARNING: Lost 6 Samples Between 140-147
+WARNING: Lost 14 Samples Between 147-162
+WARNING: Lost 236 Samples Between 162-143
+WARNING: Lost 15 Samples Between 144-160
+[WARN]: Lost packets detected, open packet loss widget for more info
+WARNING: Lost 253 Samples Between 160-158
+WARNING: Lost 246 Samples Between 158-149
+WARNING: Lost 5 Samples Between 150-156
+WARNING: Lost 251 Samples Between 156-152
+WARNING: Lost 14 Samples Between 152-167
+WARNING: Lost 242 Samples Between 167-154
+WARNING: Lost 8 Samples Between 154-163
+WARNING: Lost 2 Samples Between 165-168
+WARNING: Lost 1 Samples Between 179-181
+WARNING: Lost 1 Samples Between 201-203
+WARNING: Lost 13 Samples Between 218-232
+WARNING: Lost 243 Samples Between 232-220
+WARNING: Lost 9 Samples Between 220-230
+WARNING: Lost 247 Samples Between 230-222
+WARNING: Lost 4 Samples Between 223-228
+WARNING: Lost 252 Samples Between 228-225
+WARNING: Lost 6 Samples Between 226-233
+WARNING: Lost 11 Samples Between 28-40
+WARNING: Lost 245 Samples Between 40-30
+WARNING: Lost 5 Samples Between 32-38
+WARNING: Lost 251 Samples Between 38-34
+WARNING: Lost 4 Samples Between 36-41
+[INFO]: Data streaming is running as usual
+WARNING: Lost 1 Samples Between 227-229
+WARNING: Lost 1 Samples Between 229-231
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-53-58.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_32.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-54-51.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_33.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-55-50.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_34.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 64-66
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-56-44.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_35.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-57-40.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_36.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-58-29.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_37.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-59-06.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_38.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_14-59-51.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_39.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_15-00-34.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_40.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_15-01-30.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_41.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_15-01-50.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_42.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 171-173
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_15-30-03.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_43.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[ERROR]: Data Streaming Error: No new data received in 5.0 seconds. Please check your device and restart a GUI session.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_15-30-23.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_44.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 140-142
+WARNING: Lost 22 Samples Between 193-216
+[WARN]: Lost packets detected, open packet loss widget for more info
+WARNING: Lost 234 Samples Between 216-195
+WARNING: Lost 17 Samples Between 196-214
+WARNING: Lost 239 Samples Between 214-198
+WARNING: Lost 13 Samples Between 198-212
+WARNING: Lost 247 Samples Between 212-204
+WARNING: Lost 252 Samples Between 204-201
+WARNING: Lost 6 Samples Between 202-209
+WARNING: Lost 6 Samples Between 210-217
+WARNING: Lost 1 Samples Between 215-217
+WARNING: Lost 1 Samples Between 217-219
+[INFO]: Data streaming is running as usual
+WARNING: Lost 1 Samples Between 85-87
+WARNING: Lost 1 Samples Between 110-112
+WARNING: Lost 1 Samples Between 210-212
+WARNING: Lost 11 Samples Between 130-142
+WARNING: Lost 245 Samples Between 142-132
+[WARN]: Lost packets detected, open packet loss widget for more info
+WARNING: Lost 7 Samples Between 132-140
+WARNING: Lost 249 Samples Between 140-134
+WARNING: Lost 2 Samples Between 134-137
+WARNING: Lost 4 Samples Between 138-143
+[INFO]: Data streaming is running as usual
+[ERROR]: Data Streaming Error: No new data received in 5.0 seconds. Please check your device and restart a GUI session.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-08-36.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_45.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[ERROR]: Data Streaming Error: No new data received in 5.0 seconds. Please check your device and restart a GUI session.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-08-42.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_46.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 212-214
+WARNING: Lost 1 Samples Between 43-45
+WARNING: Lost 1 Samples Between 228-230
+WARNING: Lost 1 Samples Between 230-232
+WARNING: Lost 1 Samples Between 184-186
+WARNING: Lost 1 Samples Between 6-8
+WARNING: Lost 1 Samples Between 8-10
+WARNING: Lost 1 Samples Between 103-105
+WARNING: Lost 1 Samples Between 27-29
+WARNING: Lost 1 Samples Between 181-183
+WARNING: Lost 1 Samples Between 183-185
+WARNING: Lost 1 Samples Between 133-135
+WARNING: Lost 1 Samples Between 31-33
+WARNING: Lost 1 Samples Between 250-252
+WARNING: Lost 1 Samples Between 252-254
+WARNING: Lost 1 Samples Between 161-163
+WARNING: Lost 1 Samples Between 138-140
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-12-07.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_47.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 105-107
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-12-59.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_48.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 0-2
+[WARN]: Lost packets detected, open packet loss widget for more info
+[INFO]: Data streaming is running as usual
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-14-42.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_49.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-15-28.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_50.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-16-49.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_51.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-17-36.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_52.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-18-30.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_53.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-19-04.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_54.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-19-41.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_55.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-20-10.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_56.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-21-31.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_57.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-22-23.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_58.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 159-161
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-23-08.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_59.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-24-58.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_60.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 239-241
+WARNING: Lost 1 Samples Between 128-130
+WARNING: Lost 1 Samples Between 130-132
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-30-50.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_61.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-31-58.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_62.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-32-49.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_63.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 235-237
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-33-39.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_64.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-34-26.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_65.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 208-210
+WARNING: Lost 1 Samples Between 175-177
+WARNING: Lost 1 Samples Between 93-95
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-35-14.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_66.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-36-08.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_67.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-38-13.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_68.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 149-151
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[WARN]: Lost packets detected, open packet loss widget for more info
+[INFO]: Data streaming is running as usual
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-40-11.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_69.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 108-110
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-40-53.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_70.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-41-38.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_71.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-42-53.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_72.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 153-155
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-43-40.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_73.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-44-30.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_74.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 206-208
+WARNING: Lost 1 Samples Between 127-129
+WARNING: Lost 1 Samples Between 129-131
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-45-17.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_75.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-46-52.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_76.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 123-125
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-48-37.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_77.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-48-48.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_78.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-49-57.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_79.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-50-58.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_80.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-52-40.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_81.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-54-50.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_82.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 176-178
+WARNING: Lost 1 Samples Between 189-191
+WARNING: Lost 1 Samples Between 108-110
+WARNING: Lost 1 Samples Between 110-112
+WARNING: Lost 1 Samples Between 165-167
+WARNING: Lost 1 Samples Between 167-169
+WARNING: Lost 1 Samples Between 169-171
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-57-07.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_83.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-58-04.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_84.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-58-25.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_85.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-58-52.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_86.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_16-59-41.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_87.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-00-38.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_88.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-01-24.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_89.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-01-52.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_90.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-02-42.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_91.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-03-35.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_92.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-04-19.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_93.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-04-53.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_94.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-06-50.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_95.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 231-233
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-08-04.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_96.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 0-2
+[WARN]: Lost packets detected, open packet loss widget for more info
+[INFO]: Data streaming is running as usual
+WARNING: Lost 1 Samples Between 135-137
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-08-44.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_97.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-10-19.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_98.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 8-10
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-11-08.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_99.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-11-58.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_100.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-12-48.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_101.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-13-37.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_102.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-14-17.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_103.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-25-23.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_104.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 2 Samples Between 0-3
+[WARN]: Lost packets detected, open packet loss widget for more info
+[INFO]: Data streaming is running as usual
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-27-13.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_105.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-28-19.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_106.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-29-25.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_107.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-30-20.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_108.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-31-06.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_109.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 57-59
+[WARN]: Lost packets detected, open packet loss widget for more info
+[INFO]: Data streaming is running as usual
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-31-51.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_110.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-32-47.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_111.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 14-16
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-34-33.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_112.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 85-87
+WARNING: Lost 1 Samples Between 75-77
+WARNING: Lost 1 Samples Between 243-245
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-36-23.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_113.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 0-2
+[WARN]: Lost packets detected, open packet loss widget for more info
+[INFO]: Data streaming is running as usual
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-37-08.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_114.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-37-47.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_115.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-39-23.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_116.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 30-32
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-40-26.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_117.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-41-30.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_118.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 71-73
+WARNING: Lost 1 Samples Between 190-192
+WARNING: Lost 1 Samples Between 192-194
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[WARN]: Lost packets detected, open packet loss widget for more info
+[INFO]: Data streaming is running as usual
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-42-45.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_119.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-43-30.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_120.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-44-16.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_121.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-44-45.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_122.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-47-12.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_123.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 96-98
+WARNING: Lost 1 Samples Between 88-90
+WARNING: Lost 1 Samples Between 167-169
+WARNING: Lost 1 Samples Between 169-171
+WARNING: Lost 1 Samples Between 145-147
+WARNING: Lost 2 Samples Between 6-9
+WARNING: Lost 1 Samples Between 51-53
+WARNING: Lost 1 Samples Between 53-55
+WARNING: Lost 1 Samples Between 133-135
+WARNING: Lost 1 Samples Between 133-135
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-48-10.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_124.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 249-251
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-48-52.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_125.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-49-34.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_126.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-50-18.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_127.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-51-11.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_128.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-52-02.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_129.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-54-18.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_130.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-55-44.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_131.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-56-32.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_132.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 12-14
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-57-16.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_133.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-58-01.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_134.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_17-58-45.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_135.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 255 Samples Between 0-0
+[WARN]: Lost packets detected, open packet loss widget for more info
+[INFO]: Data streaming is running as usual
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_18-00-49.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_136.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_18-01-59.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_137.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 255 Samples Between 0-0
+[WARN]: Lost packets detected, open packet loss widget for more info
+[INFO]: Data streaming is running as usual
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_18-02-49.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_138.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_18-04-09.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_139.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[ERROR]: Data Streaming Error: No new data received in 5.0 seconds. Please check your device and restart a GUI session.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_18-04-25.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_140.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_18-08-01.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_141.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_18-08-46.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_142.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_18-09-29.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_143.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_18-10-24.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_144.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_18-11-12.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_145.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 1 Samples Between 157-159
+WARNING: Lost 1 Samples Between 88-90
+WARNING: Lost 1 Samples Between 90-92
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\OpenBCI-RAW-2022-09-19_18-12-09.txt
+OpenBCI_GUI: BrainFlow Streamer Location: file://C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_146.csv:w
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+WARNING: Lost 252 Samples Between 3-0
+[WARN]: Lost packets detected, open packet loss widget for more info
+[INFO]: Data streaming is running as usual
+WARNING: Lost 1 Samples Between 11-13
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+ConsoleLog: Console closed!
+SHUTDOWN HOOK
+openBCI_GUI: haltSystem: Halting system for reconfiguration of settings...
+[DEFAULT]: Data stream is already stopped.

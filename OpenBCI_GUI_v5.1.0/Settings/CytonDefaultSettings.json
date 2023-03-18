@@ -1,0 +1,92 @@
+{
+  "timeSeries": {
+    "Time Series Vert Scale": 3,
+    "Time Series Horiz Scale": 2,
+    "activeChannels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "settings": {
+    "Current Layout": 4,
+    "Analog Read Vert Scale": 5,
+    "Data Smoothing": true,
+    "Analog Read Horiz Scale": 0
+  },
+  "bandPower": {"activeChannels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]},
+  "widget": {
+    "Widget_0": 4,
+    "Widget_1": 3,
+    "Widget_2": 9
+  },
+  "spectrogram": {
+    "activeChannelsBot": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "Spectrogram_Sample Rate": 2,
+    "Spectrogram_Max Freq": 1,
+    "Spectrogram_LogLin": 0,
+    "activeChannelsTop": [
+      0,
+      2,
+      4,
+      6
+    ]
+  },
+  "dataInfo": {
+    "Data Source": 0,
+    "Channels": 8
+  },
+  "fft": {
+    "FFT_LogLin": 0,
+    "FFT_Max Freq": 2,
+    "FFT_Filter": 0,
+    "FFT_Max uV": 2,
+    "FFT_Smoothing": 3
+  },
+  "accelerometer": {
+    "Accelerometer Vert Scale": 0,
+    "Accelerometer Horiz Scale": 3
+  },
+  "networking": {
+    "Serial_baudrate": 0,
+    "Serial_DataType1": 0,
+    "Serial_filter1": false,
+    "Protocol": 0,
+    "Serial_portName": "COM3"
+  },
+  "headplot": {
+    "HP_smoothing": 3,
+    "HP_intensity": 2,
+    "HP_polarity": 0,
+    "HP_contours": 0
+  },
+  "version": {
+    "settings": "3.0.0",
+    "gui": "v5.1.0"
+  },
+  "emg": {
+    "EMG_creepspeed": 3,
+    "EMG_minuV": 1,
+    "EMG_uVlimit": 2,
+    "EMG_smoothing": 4
+  }
+}

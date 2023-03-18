@@ -1,0 +1,488 @@
+[2022-09-19 13:48:38.420] [board_logger] [info] incoming json: {"ip_address":"","mac_address":"","serial_port":"COM4","ip_port":6677,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":""}
+[2022-09-19 13:48:38.420] [board_logger] [trace] Board object created 0
+[2022-09-19 13:48:38.420] [board_logger] [info] opening port \\.\COM4
+[2022-09-19 13:48:38.423] [board_logger] [trace] port \\.\COM4 is open
+[2022-09-19 13:48:38.424] [board_logger] [trace] set port settings
+[2022-09-19 13:48:38.424] [board_logger] [debug] sending v to the board
+[2022-09-19 13:48:39.476] [board_logger] [debug] sending d to the board
+[2022-09-19 13:48:40.685] [board_logger] [debug] sending c to the board
+[2022-09-19 13:48:41.785] [board_logger] [warning] If you change gain you may need to rescale data, in data returned by BrainFlow we use gain 24 to convert int24 to uV
+[2022-09-19 13:50:31.242] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_0.csv, mods: w
+[2022-09-19 13:50:31.243] [board_logger] [debug] sending b to the board
+[2022-09-19 13:58:25.111] [board_logger] [debug] sending s to the board
+[2022-09-19 13:58:56.901] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_1.csv, mods: w
+[2022-09-19 13:58:56.902] [board_logger] [debug] sending b to the board
+[2022-09-19 13:59:22.404] [board_logger] [debug] sending s to the board
+[2022-09-19 14:00:00.958] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_2.csv, mods: w
+[2022-09-19 14:00:00.959] [board_logger] [debug] sending b to the board
+[2022-09-19 14:00:26.628] [board_logger] [debug] sending s to the board
+[2022-09-19 14:00:52.384] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_3.csv, mods: w
+[2022-09-19 14:00:52.385] [board_logger] [debug] sending b to the board
+[2022-09-19 14:01:18.128] [board_logger] [debug] sending s to the board
+[2022-09-19 14:01:42.814] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_4.csv, mods: w
+[2022-09-19 14:01:42.814] [board_logger] [debug] sending b to the board
+[2022-09-19 14:01:57.739] [board_logger] [debug] sending s to the board
+[2022-09-19 14:02:12.833] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_5.csv, mods: w
+[2022-09-19 14:02:12.834] [board_logger] [debug] sending b to the board
+[2022-09-19 14:05:29.083] [board_logger] [debug] sending s to the board
+[2022-09-19 14:05:42.816] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_6.csv, mods: w
+[2022-09-19 14:05:42.816] [board_logger] [debug] sending b to the board
+[2022-09-19 14:05:46.976] [board_logger] [debug] sending s to the board
+[2022-09-19 14:06:02.943] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_7.csv, mods: w
+[2022-09-19 14:06:02.943] [board_logger] [debug] sending b to the board
+[2022-09-19 14:06:42.935] [board_logger] [debug] sending s to the board
+[2022-09-19 14:06:54.048] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_8.csv, mods: w
+[2022-09-19 14:06:54.049] [board_logger] [debug] sending b to the board
+[2022-09-19 14:07:00.730] [board_logger] [debug] sending s to the board
+[2022-09-19 14:08:38.518] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_9.csv, mods: w
+[2022-09-19 14:08:38.519] [board_logger] [debug] sending b to the board
+[2022-09-19 14:10:21.853] [board_logger] [debug] sending s to the board
+[2022-09-19 14:10:22.934] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_10.csv, mods: w
+[2022-09-19 14:10:22.934] [board_logger] [debug] sending b to the board
+[2022-09-19 14:17:59.346] [board_logger] [debug] sending s to the board
+[2022-09-19 14:18:51.209] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_11.csv, mods: w
+[2022-09-19 14:18:51.209] [board_logger] [debug] sending b to the board
+[2022-09-19 14:22:42.106] [board_logger] [debug] sending s to the board
+[2022-09-19 14:23:02.542] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_12.csv, mods: w
+[2022-09-19 14:23:02.543] [board_logger] [debug] sending b to the board
+[2022-09-19 14:23:02.638] [board_logger] [warning] Wrong end byte 14
+[2022-09-19 14:23:27.351] [board_logger] [debug] sending s to the board
+[2022-09-19 14:23:47.360] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_13.csv, mods: w
+[2022-09-19 14:23:47.360] [board_logger] [debug] sending b to the board
+[2022-09-19 14:23:51.669] [board_logger] [warning] Wrong end byte 226
+[2022-09-19 14:24:13.891] [board_logger] [debug] sending s to the board
+[2022-09-19 14:25:05.869] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_14.csv, mods: w
+[2022-09-19 14:25:05.869] [board_logger] [debug] sending b to the board
+[2022-09-19 14:25:05.945] [board_logger] [warning] Wrong end byte 0
+[2022-09-19 14:25:20.407] [board_logger] [debug] sending s to the board
+[2022-09-19 14:25:50.531] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_15.csv, mods: w
+[2022-09-19 14:25:50.531] [board_logger] [debug] sending b to the board
+[2022-09-19 14:26:06.146] [board_logger] [debug] sending s to the board
+[2022-09-19 14:26:32.749] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_16.csv, mods: w
+[2022-09-19 14:26:32.750] [board_logger] [debug] sending b to the board
+[2022-09-19 14:26:52.830] [board_logger] [debug] sending s to the board
+[2022-09-19 14:27:41.351] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_17.csv, mods: w
+[2022-09-19 14:27:41.352] [board_logger] [debug] sending b to the board
+[2022-09-19 14:28:07.060] [board_logger] [debug] sending s to the board
+[2022-09-19 14:28:38.236] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_18.csv, mods: w
+[2022-09-19 14:28:38.237] [board_logger] [debug] sending b to the board
+[2022-09-19 14:29:04.146] [board_logger] [debug] sending s to the board
+[2022-09-19 14:29:45.611] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_19.csv, mods: w
+[2022-09-19 14:29:45.611] [board_logger] [debug] sending b to the board
+[2022-09-19 14:30:11.188] [board_logger] [debug] sending s to the board
+[2022-09-19 14:30:37.477] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_20.csv, mods: w
+[2022-09-19 14:30:37.483] [board_logger] [debug] sending b to the board
+[2022-09-19 14:30:37.570] [board_logger] [warning] Wrong end byte 230
+[2022-09-19 14:30:56.057] [board_logger] [debug] sending s to the board
+[2022-09-19 14:31:09.491] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_21.csv, mods: w
+[2022-09-19 14:31:09.491] [board_logger] [debug] sending b to the board
+[2022-09-19 14:31:35.475] [board_logger] [debug] sending s to the board
+[2022-09-19 14:32:02.692] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_22.csv, mods: w
+[2022-09-19 14:32:02.692] [board_logger] [debug] sending b to the board
+[2022-09-19 14:32:28.718] [board_logger] [debug] sending s to the board
+[2022-09-19 14:32:54.540] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_23.csv, mods: w
+[2022-09-19 14:32:54.540] [board_logger] [debug] sending b to the board
+[2022-09-19 14:33:20.273] [board_logger] [debug] sending s to the board
+[2022-09-19 14:38:44.861] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_24.csv, mods: w
+[2022-09-19 14:38:44.861] [board_logger] [debug] sending b to the board
+[2022-09-19 14:43:01.397] [board_logger] [debug] sending s to the board
+[2022-09-19 14:43:12.524] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_25.csv, mods: w
+[2022-09-19 14:43:12.524] [board_logger] [debug] sending b to the board
+[2022-09-19 14:43:38.211] [board_logger] [debug] sending s to the board
+[2022-09-19 14:43:55.008] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_26.csv, mods: w
+[2022-09-19 14:43:55.008] [board_logger] [debug] sending b to the board
+[2022-09-19 14:44:21.640] [board_logger] [debug] sending s to the board
+[2022-09-19 14:44:37.127] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_27.csv, mods: w
+[2022-09-19 14:44:37.127] [board_logger] [debug] sending b to the board
+[2022-09-19 14:45:03.281] [board_logger] [debug] sending s to the board
+[2022-09-19 14:45:29.767] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_28.csv, mods: w
+[2022-09-19 14:45:29.768] [board_logger] [debug] sending b to the board
+[2022-09-19 14:45:55.395] [board_logger] [debug] sending s to the board
+[2022-09-19 14:46:18.318] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_29.csv, mods: w
+[2022-09-19 14:46:18.319] [board_logger] [debug] sending b to the board
+[2022-09-19 14:46:44.102] [board_logger] [debug] sending s to the board
+[2022-09-19 14:47:00.921] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_30.csv, mods: w
+[2022-09-19 14:47:00.921] [board_logger] [debug] sending b to the board
+[2022-09-19 14:47:27.453] [board_logger] [debug] sending s to the board
+[2022-09-19 14:51:25.086] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_31.csv, mods: w
+[2022-09-19 14:51:25.087] [board_logger] [debug] sending b to the board
+[2022-09-19 14:53:48.144] [board_logger] [debug] sending s to the board
+[2022-09-19 14:53:58.663] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_32.csv, mods: w
+[2022-09-19 14:53:58.664] [board_logger] [debug] sending b to the board
+[2022-09-19 14:54:24.534] [board_logger] [debug] sending s to the board
+[2022-09-19 14:54:51.356] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_33.csv, mods: w
+[2022-09-19 14:54:51.356] [board_logger] [debug] sending b to the board
+[2022-09-19 14:55:18.160] [board_logger] [debug] sending s to the board
+[2022-09-19 14:55:50.770] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_34.csv, mods: w
+[2022-09-19 14:55:50.771] [board_logger] [debug] sending b to the board
+[2022-09-19 14:56:16.533] [board_logger] [debug] sending s to the board
+[2022-09-19 14:56:44.446] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_35.csv, mods: w
+[2022-09-19 14:56:44.446] [board_logger] [debug] sending b to the board
+[2022-09-19 14:57:10.424] [board_logger] [debug] sending s to the board
+[2022-09-19 14:57:40.462] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_36.csv, mods: w
+[2022-09-19 14:57:40.462] [board_logger] [debug] sending b to the board
+[2022-09-19 14:58:06.341] [board_logger] [debug] sending s to the board
+[2022-09-19 14:58:29.355] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_37.csv, mods: w
+[2022-09-19 14:58:29.355] [board_logger] [debug] sending b to the board
+[2022-09-19 14:58:45.214] [board_logger] [debug] sending s to the board
+[2022-09-19 14:59:06.613] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_38.csv, mods: w
+[2022-09-19 14:59:06.614] [board_logger] [debug] sending b to the board
+[2022-09-19 14:59:25.632] [board_logger] [debug] sending s to the board
+[2022-09-19 14:59:51.746] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_39.csv, mods: w
+[2022-09-19 14:59:51.747] [board_logger] [debug] sending b to the board
+[2022-09-19 15:00:17.739] [board_logger] [debug] sending s to the board
+[2022-09-19 15:00:34.097] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_40.csv, mods: w
+[2022-09-19 15:00:34.097] [board_logger] [debug] sending b to the board
+[2022-09-19 15:00:59.995] [board_logger] [debug] sending s to the board
+[2022-09-19 15:01:30.123] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_41.csv, mods: w
+[2022-09-19 15:01:30.124] [board_logger] [debug] sending b to the board
+[2022-09-19 15:01:41.699] [board_logger] [debug] sending s to the board
+[2022-09-19 15:01:50.965] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_42.csv, mods: w
+[2022-09-19 15:01:50.965] [board_logger] [debug] sending b to the board
+[2022-09-19 15:02:16.904] [board_logger] [debug] sending s to the board
+[2022-09-19 15:30:03.802] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_43.csv, mods: w
+[2022-09-19 15:30:03.802] [board_logger] [debug] sending b to the board
+[2022-09-19 15:30:04.910] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 15:30:06.010] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 15:30:07.111] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 15:30:08.211] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 15:30:09.312] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 15:30:09.312] [board_logger] [debug] sending s to the board
+[2022-09-19 15:30:23.152] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_44.csv, mods: w
+[2022-09-19 15:30:23.153] [board_logger] [debug] sending b to the board
+[2022-09-19 15:38:00.473] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 15:38:01.573] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 15:38:02.673] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 15:38:03.773] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 15:38:04.874] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 15:38:05.975] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 15:38:05.975] [board_logger] [debug] sending s to the board
+[2022-09-19 16:08:36.277] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_45.csv, mods: w
+[2022-09-19 16:08:36.278] [board_logger] [debug] sending b to the board
+[2022-09-19 16:08:37.385] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 16:08:38.485] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 16:08:39.585] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 16:08:41.237] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 16:08:42.338] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 16:08:42.338] [board_logger] [debug] sending s to the board
+[2022-09-19 16:08:42.494] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_46.csv, mods: w
+[2022-09-19 16:08:42.495] [board_logger] [debug] sending b to the board
+[2022-09-19 16:11:44.591] [board_logger] [debug] sending s to the board
+[2022-09-19 16:12:07.645] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_47.csv, mods: w
+[2022-09-19 16:12:07.646] [board_logger] [debug] sending b to the board
+[2022-09-19 16:12:26.704] [board_logger] [debug] sending s to the board
+[2022-09-19 16:12:59.079] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_48.csv, mods: w
+[2022-09-19 16:12:59.079] [board_logger] [debug] sending b to the board
+[2022-09-19 16:13:24.561] [board_logger] [debug] sending s to the board
+[2022-09-19 16:14:42.056] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_49.csv, mods: w
+[2022-09-19 16:14:42.057] [board_logger] [debug] sending b to the board
+[2022-09-19 16:15:07.854] [board_logger] [debug] sending s to the board
+[2022-09-19 16:15:28.534] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_50.csv, mods: w
+[2022-09-19 16:15:28.534] [board_logger] [debug] sending b to the board
+[2022-09-19 16:15:54.517] [board_logger] [debug] sending s to the board
+[2022-09-19 16:16:49.302] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_51.csv, mods: w
+[2022-09-19 16:16:49.302] [board_logger] [debug] sending b to the board
+[2022-09-19 16:17:15.034] [board_logger] [debug] sending s to the board
+[2022-09-19 16:17:36.504] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_52.csv, mods: w
+[2022-09-19 16:17:36.505] [board_logger] [debug] sending b to the board
+[2022-09-19 16:18:02.452] [board_logger] [debug] sending s to the board
+[2022-09-19 16:18:30.743] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_53.csv, mods: w
+[2022-09-19 16:18:30.743] [board_logger] [debug] sending b to the board
+[2022-09-19 16:18:52.647] [board_logger] [debug] sending s to the board
+[2022-09-19 16:19:04.485] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_54.csv, mods: w
+[2022-09-19 16:19:04.485] [board_logger] [debug] sending b to the board
+[2022-09-19 16:19:14.867] [board_logger] [debug] sending s to the board
+[2022-09-19 16:19:41.211] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_55.csv, mods: w
+[2022-09-19 16:19:41.212] [board_logger] [debug] sending b to the board
+[2022-09-19 16:19:52.424] [board_logger] [debug] sending s to the board
+[2022-09-19 16:20:10.424] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_56.csv, mods: w
+[2022-09-19 16:20:10.424] [board_logger] [debug] sending b to the board
+[2022-09-19 16:20:37.224] [board_logger] [debug] sending s to the board
+[2022-09-19 16:21:31.186] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_57.csv, mods: w
+[2022-09-19 16:21:31.187] [board_logger] [debug] sending b to the board
+[2022-09-19 16:21:56.902] [board_logger] [debug] sending s to the board
+[2022-09-19 16:22:23.151] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_58.csv, mods: w
+[2022-09-19 16:22:23.151] [board_logger] [debug] sending b to the board
+[2022-09-19 16:22:48.859] [board_logger] [debug] sending s to the board
+[2022-09-19 16:23:08.044] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_59.csv, mods: w
+[2022-09-19 16:23:08.045] [board_logger] [debug] sending b to the board
+[2022-09-19 16:23:08.045] [board_logger] [warning] Wrong end byte 6
+[2022-09-19 16:23:33.743] [board_logger] [debug] sending s to the board
+[2022-09-19 16:24:58.228] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_60.csv, mods: w
+[2022-09-19 16:24:58.228] [board_logger] [debug] sending b to the board
+[2022-09-19 16:30:15.890] [board_logger] [debug] sending s to the board
+[2022-09-19 16:30:50.911] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_61.csv, mods: w
+[2022-09-19 16:30:50.911] [board_logger] [debug] sending b to the board
+[2022-09-19 16:31:17.671] [board_logger] [debug] sending s to the board
+[2022-09-19 16:31:58.395] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_62.csv, mods: w
+[2022-09-19 16:31:58.396] [board_logger] [debug] sending b to the board
+[2022-09-19 16:32:24.399] [board_logger] [debug] sending s to the board
+[2022-09-19 16:32:49.016] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_63.csv, mods: w
+[2022-09-19 16:32:49.016] [board_logger] [debug] sending b to the board
+[2022-09-19 16:33:14.918] [board_logger] [debug] sending s to the board
+[2022-09-19 16:33:39.931] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_64.csv, mods: w
+[2022-09-19 16:33:39.932] [board_logger] [debug] sending b to the board
+[2022-09-19 16:34:05.362] [board_logger] [debug] sending s to the board
+[2022-09-19 16:34:26.518] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_65.csv, mods: w
+[2022-09-19 16:34:26.519] [board_logger] [debug] sending b to the board
+[2022-09-19 16:34:52.266] [board_logger] [debug] sending s to the board
+[2022-09-19 16:35:14.218] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_66.csv, mods: w
+[2022-09-19 16:35:14.219] [board_logger] [debug] sending b to the board
+[2022-09-19 16:35:40.159] [board_logger] [debug] sending s to the board
+[2022-09-19 16:36:08.016] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_67.csv, mods: w
+[2022-09-19 16:36:08.016] [board_logger] [debug] sending b to the board
+[2022-09-19 16:36:34.268] [board_logger] [debug] sending s to the board
+[2022-09-19 16:38:13.860] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_68.csv, mods: w
+[2022-09-19 16:38:13.860] [board_logger] [debug] sending b to the board
+[2022-09-19 16:39:47.833] [board_logger] [debug] sending s to the board
+[2022-09-19 16:40:11.750] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_69.csv, mods: w
+[2022-09-19 16:40:11.751] [board_logger] [debug] sending b to the board
+[2022-09-19 16:40:37.146] [board_logger] [debug] sending s to the board
+[2022-09-19 16:40:53.952] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_70.csv, mods: w
+[2022-09-19 16:40:53.952] [board_logger] [debug] sending b to the board
+[2022-09-19 16:41:19.604] [board_logger] [debug] sending s to the board
+[2022-09-19 16:41:38.113] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_71.csv, mods: w
+[2022-09-19 16:41:38.113] [board_logger] [debug] sending b to the board
+[2022-09-19 16:41:38.113] [board_logger] [warning] Wrong end byte 244
+[2022-09-19 16:42:03.407] [board_logger] [debug] sending s to the board
+[2022-09-19 16:42:53.814] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_72.csv, mods: w
+[2022-09-19 16:42:53.814] [board_logger] [debug] sending b to the board
+[2022-09-19 16:42:53.815] [board_logger] [warning] Wrong end byte 140
+[2022-09-19 16:43:19.594] [board_logger] [debug] sending s to the board
+[2022-09-19 16:43:40.257] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_73.csv, mods: w
+[2022-09-19 16:43:40.257] [board_logger] [debug] sending b to the board
+[2022-09-19 16:43:55.778] [board_logger] [debug] sending s to the board
+[2022-09-19 16:44:30.226] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_74.csv, mods: w
+[2022-09-19 16:44:30.227] [board_logger] [debug] sending b to the board
+[2022-09-19 16:44:55.900] [board_logger] [debug] sending s to the board
+[2022-09-19 16:45:17.116] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_75.csv, mods: w
+[2022-09-19 16:45:17.117] [board_logger] [debug] sending b to the board
+[2022-09-19 16:45:42.726] [board_logger] [debug] sending s to the board
+[2022-09-19 16:46:52.957] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_76.csv, mods: w
+[2022-09-19 16:46:52.958] [board_logger] [debug] sending b to the board
+[2022-09-19 16:48:20.168] [board_logger] [debug] sending s to the board
+[2022-09-19 16:48:37.539] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_77.csv, mods: w
+[2022-09-19 16:48:37.540] [board_logger] [debug] sending b to the board
+[2022-09-19 16:48:40.973] [board_logger] [debug] sending s to the board
+[2022-09-19 16:48:48.166] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_78.csv, mods: w
+[2022-09-19 16:48:48.166] [board_logger] [debug] sending b to the board
+[2022-09-19 16:49:19.108] [board_logger] [debug] sending s to the board
+[2022-09-19 16:49:57.297] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_79.csv, mods: w
+[2022-09-19 16:49:57.297] [board_logger] [debug] sending b to the board
+[2022-09-19 16:50:17.828] [board_logger] [debug] sending s to the board
+[2022-09-19 16:50:58.305] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_80.csv, mods: w
+[2022-09-19 16:50:58.305] [board_logger] [debug] sending b to the board
+[2022-09-19 16:51:21.249] [board_logger] [debug] sending s to the board
+[2022-09-19 16:52:40.118] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_81.csv, mods: w
+[2022-09-19 16:52:40.118] [board_logger] [debug] sending b to the board
+[2022-09-19 16:53:10.464] [board_logger] [debug] sending s to the board
+[2022-09-19 16:54:50.126] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_82.csv, mods: w
+[2022-09-19 16:54:50.127] [board_logger] [debug] sending b to the board
+[2022-09-19 16:56:53.153] [board_logger] [debug] sending s to the board
+[2022-09-19 16:57:07.700] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_83.csv, mods: w
+[2022-09-19 16:57:07.700] [board_logger] [debug] sending b to the board
+[2022-09-19 16:57:34.287] [board_logger] [debug] sending s to the board
+[2022-09-19 16:58:04.642] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_84.csv, mods: w
+[2022-09-19 16:58:04.643] [board_logger] [debug] sending b to the board
+[2022-09-19 16:58:16.346] [board_logger] [debug] sending s to the board
+[2022-09-19 16:58:25.010] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_85.csv, mods: w
+[2022-09-19 16:58:25.010] [board_logger] [debug] sending b to the board
+[2022-09-19 16:58:38.920] [board_logger] [debug] sending s to the board
+[2022-09-19 16:58:52.071] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_86.csv, mods: w
+[2022-09-19 16:58:52.072] [board_logger] [debug] sending b to the board
+[2022-09-19 16:59:17.793] [board_logger] [debug] sending s to the board
+[2022-09-19 16:59:41.854] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_87.csv, mods: w
+[2022-09-19 16:59:41.854] [board_logger] [debug] sending b to the board
+[2022-09-19 17:00:08.426] [board_logger] [debug] sending s to the board
+[2022-09-19 17:00:38.143] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_88.csv, mods: w
+[2022-09-19 17:00:38.144] [board_logger] [debug] sending b to the board
+[2022-09-19 17:01:03.899] [board_logger] [debug] sending s to the board
+[2022-09-19 17:01:24.983] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_89.csv, mods: w
+[2022-09-19 17:01:24.984] [board_logger] [debug] sending b to the board
+[2022-09-19 17:01:38.906] [board_logger] [debug] sending s to the board
+[2022-09-19 17:01:52.973] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_90.csv, mods: w
+[2022-09-19 17:01:52.973] [board_logger] [debug] sending b to the board
+[2022-09-19 17:02:18.650] [board_logger] [debug] sending s to the board
+[2022-09-19 17:02:42.947] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_91.csv, mods: w
+[2022-09-19 17:02:42.947] [board_logger] [debug] sending b to the board
+[2022-09-19 17:03:08.601] [board_logger] [debug] sending s to the board
+[2022-09-19 17:03:35.120] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_92.csv, mods: w
+[2022-09-19 17:03:35.121] [board_logger] [debug] sending b to the board
+[2022-09-19 17:04:00.815] [board_logger] [debug] sending s to the board
+[2022-09-19 17:04:19.777] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_93.csv, mods: w
+[2022-09-19 17:04:19.778] [board_logger] [debug] sending b to the board
+[2022-09-19 17:04:37.631] [board_logger] [debug] sending s to the board
+[2022-09-19 17:04:53.170] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_94.csv, mods: w
+[2022-09-19 17:04:53.170] [board_logger] [debug] sending b to the board
+[2022-09-19 17:05:19.022] [board_logger] [debug] sending s to the board
+[2022-09-19 17:06:50.893] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_95.csv, mods: w
+[2022-09-19 17:06:50.893] [board_logger] [debug] sending b to the board
+[2022-09-19 17:06:50.953] [board_logger] [warning] Wrong end byte 0
+[2022-09-19 17:07:47.795] [board_logger] [debug] sending s to the board
+[2022-09-19 17:08:04.872] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_96.csv, mods: w
+[2022-09-19 17:08:04.872] [board_logger] [debug] sending b to the board
+[2022-09-19 17:08:22.545] [board_logger] [debug] sending s to the board
+[2022-09-19 17:08:44.551] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_97.csv, mods: w
+[2022-09-19 17:08:44.552] [board_logger] [debug] sending b to the board
+[2022-09-19 17:09:10.234] [board_logger] [debug] sending s to the board
+[2022-09-19 17:10:19.705] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_98.csv, mods: w
+[2022-09-19 17:10:19.705] [board_logger] [debug] sending b to the board
+[2022-09-19 17:10:45.548] [board_logger] [debug] sending s to the board
+[2022-09-19 17:11:08.888] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_99.csv, mods: w
+[2022-09-19 17:11:08.889] [board_logger] [debug] sending b to the board
+[2022-09-19 17:11:08.889] [board_logger] [warning] Wrong end byte 244
+[2022-09-19 17:11:08.889] [board_logger] [warning] Wrong end byte 244
+[2022-09-19 17:11:08.889] [board_logger] [warning] Wrong end byte 244
+[2022-09-19 17:11:34.562] [board_logger] [debug] sending s to the board
+[2022-09-19 17:11:58.395] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_100.csv, mods: w
+[2022-09-19 17:11:58.395] [board_logger] [debug] sending b to the board
+[2022-09-19 17:11:58.395] [board_logger] [warning] Wrong end byte 248
+[2022-09-19 17:12:24.153] [board_logger] [debug] sending s to the board
+[2022-09-19 17:12:48.540] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_101.csv, mods: w
+[2022-09-19 17:12:48.540] [board_logger] [debug] sending b to the board
+[2022-09-19 17:13:13.923] [board_logger] [debug] sending s to the board
+[2022-09-19 17:13:37.310] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_102.csv, mods: w
+[2022-09-19 17:13:37.310] [board_logger] [debug] sending b to the board
+[2022-09-19 17:14:00.070] [board_logger] [debug] sending s to the board
+[2022-09-19 17:14:17.569] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_103.csv, mods: w
+[2022-09-19 17:14:17.570] [board_logger] [debug] sending b to the board
+[2022-09-19 17:14:43.186] [board_logger] [debug] sending s to the board
+[2022-09-19 17:25:23.338] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_104.csv, mods: w
+[2022-09-19 17:25:23.338] [board_logger] [debug] sending b to the board
+[2022-09-19 17:25:23.937] [board_logger] [warning] Wrong end byte 0
+[2022-09-19 17:26:27.429] [board_logger] [debug] sending s to the board
+[2022-09-19 17:27:13.533] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_105.csv, mods: w
+[2022-09-19 17:27:13.533] [board_logger] [debug] sending b to the board
+[2022-09-19 17:27:39.419] [board_logger] [debug] sending s to the board
+[2022-09-19 17:28:19.024] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_106.csv, mods: w
+[2022-09-19 17:28:19.024] [board_logger] [debug] sending b to the board
+[2022-09-19 17:28:44.737] [board_logger] [debug] sending s to the board
+[2022-09-19 17:29:25.708] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_107.csv, mods: w
+[2022-09-19 17:29:25.709] [board_logger] [debug] sending b to the board
+[2022-09-19 17:29:51.524] [board_logger] [debug] sending s to the board
+[2022-09-19 17:30:20.878] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_108.csv, mods: w
+[2022-09-19 17:30:20.879] [board_logger] [debug] sending b to the board
+[2022-09-19 17:30:46.889] [board_logger] [debug] sending s to the board
+[2022-09-19 17:31:06.521] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_109.csv, mods: w
+[2022-09-19 17:31:06.522] [board_logger] [debug] sending b to the board
+[2022-09-19 17:31:32.738] [board_logger] [debug] sending s to the board
+[2022-09-19 17:31:51.308] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_110.csv, mods: w
+[2022-09-19 17:31:51.308] [board_logger] [debug] sending b to the board
+[2022-09-19 17:32:16.966] [board_logger] [debug] sending s to the board
+[2022-09-19 17:32:47.755] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_111.csv, mods: w
+[2022-09-19 17:32:47.755] [board_logger] [debug] sending b to the board
+[2022-09-19 17:33:13.513] [board_logger] [debug] sending s to the board
+[2022-09-19 17:34:33.491] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_112.csv, mods: w
+[2022-09-19 17:34:33.492] [board_logger] [debug] sending b to the board
+[2022-09-19 17:35:35.218] [board_logger] [debug] sending s to the board
+[2022-09-19 17:36:23.342] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_113.csv, mods: w
+[2022-09-19 17:36:23.343] [board_logger] [debug] sending b to the board
+[2022-09-19 17:36:49.370] [board_logger] [debug] sending s to the board
+[2022-09-19 17:37:08.508] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_114.csv, mods: w
+[2022-09-19 17:37:08.509] [board_logger] [debug] sending b to the board
+[2022-09-19 17:37:22.129] [board_logger] [debug] sending s to the board
+[2022-09-19 17:37:47.082] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_115.csv, mods: w
+[2022-09-19 17:37:47.083] [board_logger] [debug] sending b to the board
+[2022-09-19 17:38:12.903] [board_logger] [debug] sending s to the board
+[2022-09-19 17:39:23.937] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_116.csv, mods: w
+[2022-09-19 17:39:23.938] [board_logger] [debug] sending b to the board
+[2022-09-19 17:39:49.702] [board_logger] [debug] sending s to the board
+[2022-09-19 17:40:26.545] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_117.csv, mods: w
+[2022-09-19 17:40:26.545] [board_logger] [debug] sending b to the board
+[2022-09-19 17:40:44.061] [board_logger] [debug] sending s to the board
+[2022-09-19 17:41:30.840] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_118.csv, mods: w
+[2022-09-19 17:41:30.841] [board_logger] [debug] sending b to the board
+[2022-09-19 17:41:30.906] [board_logger] [warning] Wrong end byte 0
+[2022-09-19 17:41:30.925] [board_logger] [warning] Wrong end byte 0
+[2022-09-19 17:41:56.022] [board_logger] [debug] sending s to the board
+[2022-09-19 17:42:45.080] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_119.csv, mods: w
+[2022-09-19 17:42:45.080] [board_logger] [debug] sending b to the board
+[2022-09-19 17:43:07.535] [board_logger] [debug] sending s to the board
+[2022-09-19 17:43:30.068] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_120.csv, mods: w
+[2022-09-19 17:43:30.068] [board_logger] [debug] sending b to the board
+[2022-09-19 17:43:55.789] [board_logger] [debug] sending s to the board
+[2022-09-19 17:44:16.627] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_121.csv, mods: w
+[2022-09-19 17:44:16.627] [board_logger] [debug] sending b to the board
+[2022-09-19 17:44:16.718] [board_logger] [warning] Wrong end byte 0
+[2022-09-19 17:44:35.262] [board_logger] [debug] sending s to the board
+[2022-09-19 17:44:45.714] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_122.csv, mods: w
+[2022-09-19 17:44:45.715] [board_logger] [debug] sending b to the board
+[2022-09-19 17:45:11.589] [board_logger] [debug] sending s to the board
+[2022-09-19 17:47:12.070] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_123.csv, mods: w
+[2022-09-19 17:47:12.071] [board_logger] [debug] sending b to the board
+[2022-09-19 17:47:57.211] [board_logger] [debug] sending s to the board
+[2022-09-19 17:48:10.909] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_124.csv, mods: w
+[2022-09-19 17:48:10.910] [board_logger] [debug] sending b to the board
+[2022-09-19 17:48:36.482] [board_logger] [debug] sending s to the board
+[2022-09-19 17:48:52.288] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_125.csv, mods: w
+[2022-09-19 17:48:52.288] [board_logger] [debug] sending b to the board
+[2022-09-19 17:48:52.390] [board_logger] [warning] Wrong end byte 0
+[2022-09-19 17:49:17.878] [board_logger] [debug] sending s to the board
+[2022-09-19 17:49:34.273] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_126.csv, mods: w
+[2022-09-19 17:49:34.274] [board_logger] [debug] sending b to the board
+[2022-09-19 17:49:59.876] [board_logger] [debug] sending s to the board
+[2022-09-19 17:50:18.849] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_127.csv, mods: w
+[2022-09-19 17:50:18.850] [board_logger] [debug] sending b to the board
+[2022-09-19 17:50:44.697] [board_logger] [debug] sending s to the board
+[2022-09-19 17:51:11.705] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_128.csv, mods: w
+[2022-09-19 17:51:11.706] [board_logger] [debug] sending b to the board
+[2022-09-19 17:51:37.401] [board_logger] [debug] sending s to the board
+[2022-09-19 17:52:02.544] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_129.csv, mods: w
+[2022-09-19 17:52:02.545] [board_logger] [debug] sending b to the board
+[2022-09-19 17:52:29.910] [board_logger] [debug] sending s to the board
+[2022-09-19 17:54:18.728] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_130.csv, mods: w
+[2022-09-19 17:54:18.729] [board_logger] [debug] sending b to the board
+[2022-09-19 17:54:47.277] [board_logger] [debug] sending s to the board
+[2022-09-19 17:55:44.789] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_131.csv, mods: w
+[2022-09-19 17:55:44.789] [board_logger] [debug] sending b to the board
+[2022-09-19 17:56:03.899] [board_logger] [debug] sending s to the board
+[2022-09-19 17:56:32.706] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_132.csv, mods: w
+[2022-09-19 17:56:32.706] [board_logger] [debug] sending b to the board
+[2022-09-19 17:56:58.571] [board_logger] [debug] sending s to the board
+[2022-09-19 17:57:16.652] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_133.csv, mods: w
+[2022-09-19 17:57:16.653] [board_logger] [debug] sending b to the board
+[2022-09-19 17:57:42.357] [board_logger] [debug] sending s to the board
+[2022-09-19 17:58:01.154] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_134.csv, mods: w
+[2022-09-19 17:58:01.154] [board_logger] [debug] sending b to the board
+[2022-09-19 17:58:26.801] [board_logger] [debug] sending s to the board
+[2022-09-19 17:58:45.564] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_135.csv, mods: w
+[2022-09-19 17:58:45.565] [board_logger] [debug] sending b to the board
+[2022-09-19 17:59:11.083] [board_logger] [debug] sending s to the board
+[2022-09-19 18:00:49.478] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_136.csv, mods: w
+[2022-09-19 18:00:49.478] [board_logger] [debug] sending b to the board
+[2022-09-19 18:01:15.118] [board_logger] [debug] sending s to the board
+[2022-09-19 18:01:59.184] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_137.csv, mods: w
+[2022-09-19 18:01:59.185] [board_logger] [debug] sending b to the board
+[2022-09-19 18:02:24.762] [board_logger] [debug] sending s to the board
+[2022-09-19 18:02:49.535] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_138.csv, mods: w
+[2022-09-19 18:02:49.536] [board_logger] [debug] sending b to the board
+[2022-09-19 18:03:15.201] [board_logger] [debug] sending s to the board
+[2022-09-19 18:04:09.842] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_139.csv, mods: w
+[2022-09-19 18:04:09.842] [board_logger] [debug] sending b to the board
+[2022-09-19 18:04:10.949] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 18:04:12.049] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 18:04:13.149] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 18:04:14.250] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 18:04:15.351] [board_logger] [debug] unable to read 1 byte
+[2022-09-19 18:04:15.351] [board_logger] [debug] sending s to the board
+[2022-09-19 18:04:25.208] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_140.csv, mods: w
+[2022-09-19 18:04:25.209] [board_logger] [debug] sending b to the board
+[2022-09-19 18:07:41.157] [board_logger] [debug] sending s to the board
+[2022-09-19 18:08:01.325] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_141.csv, mods: w
+[2022-09-19 18:08:01.325] [board_logger] [debug] sending b to the board
+[2022-09-19 18:08:27.141] [board_logger] [debug] sending s to the board
+[2022-09-19 18:08:46.637] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_142.csv, mods: w
+[2022-09-19 18:08:46.637] [board_logger] [debug] sending b to the board
+[2022-09-19 18:09:12.043] [board_logger] [debug] sending s to the board
+[2022-09-19 18:09:29.793] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_143.csv, mods: w
+[2022-09-19 18:09:29.794] [board_logger] [debug] sending b to the board
+[2022-09-19 18:09:55.480] [board_logger] [debug] sending s to the board
+[2022-09-19 18:10:24.698] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_144.csv, mods: w
+[2022-09-19 18:10:24.698] [board_logger] [debug] sending b to the board
+[2022-09-19 18:10:50.508] [board_logger] [debug] sending s to the board
+[2022-09-19 18:11:12.729] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_145.csv, mods: w
+[2022-09-19 18:11:12.729] [board_logger] [debug] sending b to the board
+[2022-09-19 18:11:38.389] [board_logger] [debug] sending s to the board
+[2022-09-19 18:12:09.098] [board_logger] [trace] File Streamer, file: C:\Users\madee\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2022-09-19_13-47-07\\BrainFlow-RAW_2022-09-19_13-47-07_146.csv, mods: w
+[2022-09-19 18:12:09.098] [board_logger] [debug] sending b to the board
+[2022-09-19 18:12:34.836] [board_logger] [debug] sending s to the board

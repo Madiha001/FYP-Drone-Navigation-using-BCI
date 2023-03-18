@@ -1,0 +1,22 @@
+Console Log Started at Local Time: 2022-10-12_23-11-35
+Screen Resolution: 1920 X 1080
+High-DPI Screen Detected: false
+Operating System and Version: Windows - 10.0
+Welcome to the Processing-based OpenBCI GUI!
+For more information, please visit: https://docs.openbci.com/Software/OpenBCISoftware/GUIDocs/
+OpenBCI_GUI::Setup: GUI v5 Sample Data exists in Documents folder.
+Settings: LogFileMaxDuration = 60 minutes
+OpenBCI_GUI::Settings: Found and loaded existing GUI-wide Settings from file.
+ControlP5 2.3.4 infos, comments, questions at https://github.com/retiutut/controlp5
+TopNav: Internet Connection Successful
+Local Version: v5.1.0, Latest Version: v5.1.0
+GUI is up to date!
+BrainFlow Version: fce5573c9456f5216a457fc66171b28a175e8b95
+OpenBCI_GUI: AuditoryFeedback: Loading Audio...
+OpenBCI_GUI: AuditoryFeedback: Done Loading Audio!
+OpenBCI_GUI::Control Panel: Playback history file not found.
+OpenBCI_GUI::Setup: Setup is complete!
+sourceList: click! 
+OpenBCI_GUI: Channel count set to 8
+[DEFAULT]: SessionData: Enter your custom session name.
+SHUTDOWN HOOK
